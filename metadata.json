@@ -1,0 +1,8 @@
+{
+  "name": "Copy of curiousminds final version-netlify ready",
+  "description": "A 3D immersive landing page for a pre-seed EdTech startup focusing on real-world problem solving over memorization.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
